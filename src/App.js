@@ -425,7 +425,7 @@ export default function App() {
 
         {/* Footer */}
         <div className="mt-8 text-center text-gray-500 text-sm">
-          <p className="mb-4">© {new Date().getFullYear()} Image Editor & Exam Preset Tool.
+          <p className="mb-4">© {new Date().getFullYear()} Image Editor  & Exam Preset Tool.
             <br />
             Made with ❤ by Abhinay.
           </p>
