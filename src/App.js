@@ -381,7 +381,7 @@ export default function App() {
              
              <div className="flex flex-col md:flex-row gap-6">
                <div className="flex-1">
-                 <h4 className="text-sm font-medium text-gray-700 mb-2">Before/After Preview</h4>
+                 <h4 className="text-sm font-medium text-gray-700 mb-2">Preview</h4>
                  <div className="border border-gray-200 rounded-lg p-4">
                    <img 
                      src={downloadUrl} 
