@@ -716,10 +716,10 @@ export default function App() {
     </div>
   </div>
   <p>© {new Date().getFullYear()} Image Editor Pro | Built for Competitive Exam Success</p>
-  <p className="mt-1">Made with ❤ by Abhinay</p>
+  <p className="mt-1">Made with ❤ by Vikash Kumar</p>
   <div className="mt-3 flex justify-center gap-4">
     <a 
-      href="https://www.instagram.com/just_abhinay/" 
+      href="https://www.instagram.com/_vikash_n_kumar/" 
       target="_blank" 
       rel="noopener noreferrer"
       className="text-gray-500 hover:text-pink-500 transition-colors"
@@ -732,7 +732,7 @@ export default function App() {
       </svg>
     </a>
     <a 
-      href="https://www.linkedin.com/in/justabhinay/" 
+      href="https://www.linkedin.com/in/vikash7541/" 
       target="_blank" 
       rel="noopener noreferrer"
       className="text-gray-500 hover:text-blue-500 transition-colors"
